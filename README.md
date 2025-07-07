@@ -6,8 +6,8 @@ The page looks good on phone and computer. I used CSS to make it stay in the cen
 
 ## Screenshots
 
-![Screenshot](assets/screenshot-2.png)
 ![Screenshot](assets/screeshot-1.png)
+![Screenshot](assets/screenshot-2.png)
 
 ## What was easy
 
